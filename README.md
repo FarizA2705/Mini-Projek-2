@@ -22,6 +22,7 @@ sistem ini berfungsi untuk memanggil atau menampilkan menu setiap peran/akses se
 
 <img width="946" height="475" alt="Screenshot 2025-09-28 214952" src="https://github.com/user-attachments/assets/2a87d682-026a-431c-809a-82efe2aaad08" />
 Sistem login disini menggunakan while True agar pengguna dapat login berulang kali, lalu di minta untuk menginput username dan password,akses = data[username]["role"]	Menyimpan peran ("Admin" atau "Karyawan") yang berhasil login.if __name__ == "__main__": login_system()	Bagian ini memastikan bahwa fungsi login_system() hanya akan dieksekusi ketika script dijalankan sebagai program utama.
+
 **OUTPUT CODE**
 <img width="2560" height="1600" alt="Screenshot 2025-09-28 220212" src="https://github.com/user-attachments/assets/8ba31b36-1b15-44ea-829d-60b25b43cc89" />
 <img width="2560" height="1600" alt="Screenshot 2025-09-28 220343" src="https://github.com/user-attachments/assets/2863cee2-800f-4f58-a0f6-a6109306cc22" />
